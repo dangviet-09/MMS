@@ -1,3 +1,7 @@
 node_modules
 .env
-*.json
+# Allow package.json and tsconfig.json, but ignore other JSON files if needed
+!package.json
+!package-lock.json
+!tsconfig.json
+*.log
