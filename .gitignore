@@ -18,12 +18,14 @@ pnpm-debug.log*
 **/.env
 **/.env.*
 !**/.env.example
+**/.env_coppy
 
 # OS / Editor
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+**/.git_backup/
 
 # Coverage
 **/coverage/
