@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+783ec45af8b31057ef5d8ad395ae32c6fa19818b refs/remotes/origin/Viet
+d73a0d0f268572cf02e5e3f42363f91bc810430d refs/remotes/origin/blog
+440cc0632d4afe31195264717547fbcf8cc706f2 refs/remotes/origin/blog_new
+4bd404c9878651ef1c577264d0400b94dd8c39ee refs/remotes/origin/comment
+7472aef98b3ff3c8802255d5d5bbed1eec6093c3 refs/remotes/origin/dev_h
+7472aef98b3ff3c8802255d5d5bbed1eec6093c3 refs/remotes/origin/dev_t
+7472aef98b3ff3c8802255d5d5bbed1eec6093c3 refs/remotes/origin/dev_v
+ee9bc136ad4cfe395969d03a048a169c626ca46c refs/remotes/origin/feature/student-company-follow
+4e5820d60b756d02dbd39b8deb77c11060ebe44c refs/remotes/origin/main
